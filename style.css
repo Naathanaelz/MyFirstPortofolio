@@ -1,0 +1,25 @@
+*{
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 5px;
+}
+p{
+    color: blue;
+    background-color: bisque;
+    height: 55px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+/*Would you recommend Clarusway to a friend? */
+.titles{
+    color: green;
+}
+
+.titles:hover{
+background-color: darkorchid;
+}
+
+#option{
+    color: brown;
+}
